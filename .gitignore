@@ -1,0 +1,9 @@
+.idea
+*.dat
+
+*.out
+cmake-build-debug
+*.o
+./tp
+.deeps
+.vscode/
