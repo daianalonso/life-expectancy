@@ -43,7 +43,7 @@ Listo!
 
 ### Datos
 
-En `data/` tenemos los datos brindados (`data/expectativa_de_vida.csv`) y su descripción (`data/expectativa_de_vida_descripcion.txt`). Además de otros indicadores y métricas añadidos para completar los mismos.  
+En `data/` tenemos datos preprocesados de la OMS (`data/expectativa_de_vida.csv`) y su descripción (`data/expectativa_de_vida_descripcion.txt`). Además de otros indicadores y métricas añadidos para completar los mismos.  
 
 ### Otros directorios
 
