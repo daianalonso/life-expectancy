@@ -21,7 +21,7 @@ cd pybind11/ && git checkout v2.2.4 && cd ..
 cd eigen && git checkout 3.3.7 && cd ..
 ```
 
-3. Instalar requerimientos (*Previamente activar el entorno virtual. Ver  más abajo*)
+3. Instalar requerimientos
 
 ```
 pip install -r requirements.txt
